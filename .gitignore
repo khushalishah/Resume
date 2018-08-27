@@ -1,0 +1,6 @@
+#ignore everything
+*
+
+#ignore except the following
+!*.pdf
+!*.gitignore
